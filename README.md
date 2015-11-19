@@ -43,6 +43,12 @@ gyotaku.list().then(urls => {
 Gyotaku.parseListHTML('HTML_STRING_OF_LIST_PAGE');  // ['http://megalodon.jp/2007-1006-1745-56/google.com/', ...]
 ```
 
+
+## Related
+
+- [gyotaku-cli](https://github.com/moqada/gyotaku-cli) - CLI for this module
+
+
 [npm-url]: https://www.npmjs.com/package/gyotaku
 [npm-image]: https://img.shields.io/npm/v/gyotaku.svg?style=flat-square
 [npm-download-url]: https://www.npmjs.com/package/gyotaku
