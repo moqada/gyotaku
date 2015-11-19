@@ -1,7 +1,7 @@
 {
   "name": "gyotaku",
   "description": "Web GYOTAKU client for Node.js (unofficial)",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "moqada <moqada@gmail.com>",
   "bugs": {
     "url": "https://github.com/moqada/gyotaku/issues"
