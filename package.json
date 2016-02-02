@@ -7,7 +7,7 @@
     "url": "https://github.com/moqada/gyotaku/issues"
   },
   "dependencies": {
-    "cheerio": "^0.19.0",
+    "cheerio": "^0.20.0",
     "superagent": "^1.4.0"
   },
   "devDependencies": {
