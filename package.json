@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "superagent": "^2.0.0"
+    "superagent": "^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
